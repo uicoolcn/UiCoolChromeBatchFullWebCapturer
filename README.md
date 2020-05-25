@@ -1,0 +1,2 @@
+# UiCoolChromeBatchFullWebCapturer
+UiCoolChromeBatchFullWebCapturer
