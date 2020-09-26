@@ -1,5 +1,6 @@
 # 【正版原创】优爱酷批量长网页整页截图系统(Chrome内核版)
-最新版下载：https://github.com/uicoolcn/UiCoolChromeBatchFullWebCapturer/releases
+最新版下载：百度云盘 ：（如提示不存在，请按 F5 刷新页面）
+链接： https://pan.baidu.com/s/1eTwtRiU  密码：tduk
 
 <img align="absmiddle" src="https://img.alicdn.com/imgextra/i3/296931148/TB2ag6HhxWYBuNjy1zkXXXGGpXa_!!296931148.gif" class="" style="height: auto;max-width: 100.0%;" data-spm-anchor-id="2013.1.0.i9.33225acbmMukTI">
 
