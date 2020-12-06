@@ -1,6 +1,11 @@
 # 【正版原创】优爱酷批量长网页整页截图系统(Chrome内核版)
-最新版下载：百度云盘 ：（如提示不存在，请按 F5 刷新页面）
-链接： https://pan.baidu.com/s/1eTwtRiU  密码：tduk
+① 官方下载：
+http://www.uicool.cn/UiCoolJieTu_rar
+
+②  百度云盘 ：（如提示不存在，请按 F5 刷新页面，或向客服索取）
+
+链接：https://pan.baidu.com/s/1TCD9IYEiKv_cI-WO0dVhKg 
+提取码：cool 
 
 <img align="absmiddle" src="https://img.alicdn.com/imgextra/i3/296931148/TB2ag6HhxWYBuNjy1zkXXXGGpXa_!!296931148.gif" class="" style="height: auto;max-width: 100.0%;" data-spm-anchor-id="2013.1.0.i9.33225acbmMukTI">
 
@@ -19,26 +24,42 @@
 
 【批量截图方式1-文本批量】
 记事本的txt文本文档文件的批量操作实例：
- 
+ <img align="absmiddle" src="https://img.alicdn.com/imgextra/i4/296931148/O1CN01ziTeDn1KLpKJKGv4T_!!296931148.png" class="" style="height: auto;max-width: 100.0%;" >
 【批量截图方式2-表格批量】
 Excel的xls文件批量操作实例：
- 
+ <img align="absmiddle" src="https://img.alicdn.com/imgextra/i4/296931148/O1CN01ihsjJf1KLpKFOTzZe_!!296931148.png" class="" style="height: auto;max-width: 100.0%;" >
 【批量截图方式3-步进批量】
 步长方式批量截图实例：http://digi.it.sohu.com/20121130/n359085073_<开始：1；结束：7；步长：1；>.shtml
-  
+   <img align="absmiddle" src="https://img.alicdn.com/imgextra/i4/296931148/O1CN01cKWB4J1KLpKFOQyTr_!!296931148.png" class="" style="height: auto;max-width: 100.0%;" >
 【批量截图方式4-模拟点击】
-
 模拟点击自动翻页批量截图：
-
 VIP版模拟点击自动翻页功能，让截图更轻松精彩。支持点击后跳转至其它网页链接、以及同一网页内的翻页、截图，还支持自定义标识属性；
+<img align="absmiddle" src="https://img.alicdn.com/imgextra/i4/296931148/O1CN01XWO2qJ1KLpKJKJnv6_!!296931148.png" class="" style="height: auto;max-width: 100.0%;" >
 
 【批量截图方式5-定时计划任务】
 
 定时批量截图：
 
 【VIP尊享版】专享批量定时计划任务，可以为不同的任务指定不同的文件夹
+<img align="absmiddle" src="https://img.alicdn.com/imgextra/i4/296931148/O1CN01qLbvwe1KLpKCadDYf_!!296931148.png" class="" style="height: auto;max-width: 100.0%;" >
  
+ 【批量抽取取网页内图片等元素】
 
+【VIP尊享版】新增功能:【支持批量提取网页里的所有图片】，并将图片保存到指定文件夹（可选保留目录结构），支持页面内嵌的base64编码加密图片。
+还在为一张张保存网页里的图片累到手酸?
+还在为图片整理绞尽脑汁?
+还在为网页图片无法右键保存而深深苦恼?
+救星来了！！！
+
+1,【部分提取】:支持页面部分区域提取；
+2,【链接筛选】:支持链接部分关键词筛选过滤、域名筛选过滤；
+3,【目录结构】:可选按网页图片元素目录结构保存；
+4,【加密图片】:支持页面内嵌的base64编码加密图片；
+5,【多线程】:高效多线程任务下载；
+6,【可视化】:提取结果可视化，所见所得。
+
+无法使用右键的网页同样可以提取哦。
+<img align="absmiddle" src="https://img.alicdn.com/imgextra/i2/296931148/O1CN01DDyLF21KLpKEIrmMW_!!296931148.gif" class="" style="height: auto;max-width: 100.0%;" data-spm-anchor-id="2013.1.0.i17.33225acbmMukTI">
 【图片格式】-选择与设置
 完美支持常见图片格式：[支持超清.png、超轻.gif、位图.bmp、常规.jpg格式、微软.wmf和.tif格式]
 
